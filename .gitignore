@@ -1,0 +1,14 @@
+# Dataset lokal - tidak diunggah ke GitHub
+dataset/
+
+# File Python sementara
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Environment dan konfigurasi lokal
+.env
+venv/
+.venv/
